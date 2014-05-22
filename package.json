@@ -1,0 +1,26 @@
+{
+  "name": "haxfred-example",
+  "version": "0.0.0",
+  "description": "An example haxfred implementation using haxfred-irc and friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haxiom/haxfred-example.git"
+  },
+  "keywords": [
+    "haxfred"
+  ],
+  "author": "haxiom",
+  "license": "ISC",
+  "dependencies": {
+    "haxfred": "haxiom/haxfred#development",
+    "haxfred-irc": "haxiom/haxfred-irc#development"
+  },
+  "bugs": {
+    "url": "https://github.com/haxiom/haxfred-example/issues"
+  },
+  "homepage": "https://github.com/haxiom/haxfred-example"
+}
