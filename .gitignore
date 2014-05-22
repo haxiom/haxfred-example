@@ -1,3 +1,4 @@
 npm-debug.log
 *.sw[paorn]
-.DS_Store?
+.DS_Store
+node_modules
