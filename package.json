@@ -18,7 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "haxfred": "haxiom/haxfred#development",
-    "haxfred-irc": "haxiom/haxfred-irc#development"
+    "haxfred-irc": "haxiom/haxfred-irc",
+    "haxfred-irc-greeting": "haxiom/haxfred-irc-greeting"
   },
   "bugs": {
     "url": "https://github.com/haxiom/haxfred-example/issues"
