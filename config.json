@@ -12,5 +12,6 @@
      "haxfred-irc"
   ],
   "components": [
+     "haxfred-irc-greeting"
   ]
 }
