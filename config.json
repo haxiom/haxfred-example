@@ -1,0 +1,17 @@
+{
+  "server": "irc.freenode.net",
+  "nicks": [
+     "Haxfred",
+     "EvilHaxfred",
+     "ClownHaxfred",
+     "SeansMinion",
+     "EmperorZurg"
+  ],
+  "channels": ["#haxiom"],
+  "adapters": [
+     "haxfred-irc"
+  ],
+  "components": [
+     "haxfred-irc-greeting"
+  ]
+}
